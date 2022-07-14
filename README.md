@@ -1,3 +1,5 @@
+<img src="https://redcrewtv.de/img/projects/discord_nitro_bot.png">
+
 # AntiNitroScam-Discord-Bot
 The bot is an OpenSource project. The bot detects and deletes the scam messages, it also logs the whole thing in a selectable text channel.
 
